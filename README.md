@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot P1
+# 🤖 AI Chatbot Project 1
 
 A simple beginner-friendly Python chatbot project.
 
